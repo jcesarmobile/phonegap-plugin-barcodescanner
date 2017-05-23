@@ -4,7 +4,14 @@
   "description": "",
   "cordova": {
     "id": "phonegap-plugin-barcodescanner-tests",
-    "platforms": []
+    "platforms": [
+      "ios",
+      "android",
+      "windows",
+      "wp8",
+      "blackberry10",
+      "browser"
+    ]
   },
   "keywords": [
     "ecosystem:cordova",
